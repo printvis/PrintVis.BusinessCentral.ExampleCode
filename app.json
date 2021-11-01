@@ -1,0 +1,32 @@
+{
+  "id": "A71CF80E-7AB9-44EB-A5F7-1004674D9C80",
+  "name": "PrintVis Example Code",
+  "publisher": "NovaVision Software A/S",
+  "version": "19.0.0.0",
+  "brief": "PrintVis Example Code",
+  "description": "PrintVis Example Code",
+  "privacyStatement": "http://www.printvis.com",
+  "EULA": "http://www.printvis.com",
+  "help": "https://support.printvis.com/",
+  "url": "http://www.printvis.com",
+  "logo": "./.images/PV_logo_240x240px.png",
+  "dependencies": [
+    {
+      "id": "5452f323-059e-499a-9753-5d2c07eef904",
+      "name": "PrintVis",
+      "publisher": "NovaVision Software A/S",
+      "version": "16.0.0.0"
+    }
+  ],
+  "application": "19.0.0.0",
+  "platform": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 69000,
+      "to": 69100
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://support.printvis.com/",
+  "resourceExposurePolicy": {"allowDebugging": true,"allowDownloadingSource": true,"includeSourceInSymbolFile": true},
+  "runtime": "8.0"
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Per Tenant Extension",
+    "description": "Default Ruleset for PrintVis projects",
+    "generalAction": "Hidden",
+    "rules": [
+        {
+            "id": "AS0051",
+            "action": "Hidden",
+            "justification": "Logo, This is the development shell..."
+        },
+        {
+            "id": "AS0015",
+            "action": "Hidden",
+            "justification": "Translation, This is the development shell..."
+        },
+        {
+            "id": "AL0432",
+            "action": "Hidden",
+            "justification": "Marked for removal, be careful with this rule..."
+        },
+        {
+            "id": "AL0254",
+            "action": "Hidden",
+            "justification": "Sorting on flowfields, Not possible to solve"
+        }
+    ]
+}

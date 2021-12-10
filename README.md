@@ -16,10 +16,6 @@ In PrintVis, Calculation Formula's can be used througout the system for all kind
 
 Examples how to get Capacity Calendar Entries from BC with API of types page and query
 
-## KPI calculation
-
-In PrintVis, you can create up to 10 KPI fields, for every product group. Then you need to hook in on some event and calculate created KPI fields.
-
 ## Event Subscribers
 
 xx
@@ -39,3 +35,7 @@ xx
 ## Status Triggers
 
 xx
+
+## KPI calculation
+
+In PrintVis, you can create up to 10 KPI fields, for every product group. Then you need to hook in on some event and calculate created KPI fields.

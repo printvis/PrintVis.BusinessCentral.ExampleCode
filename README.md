@@ -35,3 +35,7 @@ xx
 ## Status Triggers
 
 xx
+
+## KPI calculation
+
+In PrintVis, you can create up to 10 KPI fields, for every product group. Then you need to hook in on some event and calculate created KPI fields.

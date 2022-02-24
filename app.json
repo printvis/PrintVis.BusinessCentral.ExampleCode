@@ -22,8 +22,8 @@
   "platform": "19.0.0.0",
   "idRanges": [
     {
-      "from": 69000,
-      "to": 69100
+      "from": 50000,
+      "to": 99999
     }
   ],
   "contextSensitiveHelpUrl": "https://support.printvis.com/",

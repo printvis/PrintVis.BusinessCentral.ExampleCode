@@ -61,7 +61,6 @@ codeunit 50100 "PTE Update Empty Cloud ID"
     #region Filters
     local procedure PrintVis_LoopCases_SetFilter(var PVSCase: Record "PVS Case")
     begin
-        PVSCase.SetRange(ID, 1885);
     end;
 
     local procedure PrintVis_SingleCaseOnLoopFolders_SetFilter(var PVSCase: Record "PVS Case"; var PVSFolder: Record "PVS Folder")

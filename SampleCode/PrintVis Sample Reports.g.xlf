@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="PrintVis Sample Reports">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 3609744799 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PVSSampleInspectJobTicketDataset</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PVSSampleInspectBuffer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1924491307 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PrintVis Sample API/KPI Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample API/KPI Cases - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1924491307 - NamedType 3218116402" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cases KPI</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample API/KPI Cases - NamedType Cases_KPICaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1924491307 - NamedType 1998249229" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contribution Margin</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample API/KPI Cases - NamedType Contribution_MarginCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1924491307 - NamedType 3340888455" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contribution Margin Ratio</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample API/KPI Cases - NamedType Contribution_Margin_RatioCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1924491307 - NamedType 1987762555" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample API/KPI Cases - NamedType CurrReport_PAGENOCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1924491307 - NamedType 733375391" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Direct Cost</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample API/KPI Cases - NamedType Direct_CostCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1924491307 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample API/KPI Cases - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 1924491307 - NamedType 2378347579" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoiced Sale</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample API/KPI Cases - NamedType T_1_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 675830347 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PrintVis Sample API/KPI Customers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample API/KPI Customers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 675830347 - NamedType 1998249229" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contribution Margin</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample API/KPI Customers - NamedType Contribution_MarginCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 675830347 - NamedType 3340888455" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contribution Margin Ratio</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample API/KPI Customers - NamedType Contribution_Margin_RatioCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 675830347 - NamedType 1987762555" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample API/KPI Customers - NamedType CurrReport_PAGENOCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 675830347 - NamedType 3947903375" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer KPI</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample API/KPI Customers - NamedType Customer_KPICaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 675830347 - NamedType 733375391" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Direct Cost</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample API/KPI Customers - NamedType Direct_CostCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 675830347 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample API/KPI Customers - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 675830347 - NamedType 2378347579" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoiced Sale</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample API/KPI Customers - NamedType T_1_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 954820878 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PrintVis Sample Case Copy Trigger</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample Case Copy Trigger - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1194290021 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PrintVis Sample Case Status Trigger</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample Case Status Trigger - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1132425189 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PrintVis Sample Formula Report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample Formula Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2901169202 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PrintVis Sample Job KPI</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample Job KPI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2901169202 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price incl. paper</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample Job KPI - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 2901169202 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>   - per 1.000 m²</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample Job KPI - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 2901169202 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KPI Text 3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample Job KPI - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Report 4102350434 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PrintVis Sample MergeFields Report - Job</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample MergeField Report 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4102350434 - NamedType 3263505292" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample MergeField Report 1 - NamedType CaptionDescription</note>
+        </trans-unit>
+        <trans-unit id="Report 4102350434 - NamedType 701636058" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pages</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample MergeField Report 1 - NamedType CaptionPages</note>
+        </trans-unit>
+        <trans-unit id="Report 4102350434 - NamedType 3376171941" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample MergeField Report 1 - NamedType CaptionPrice</note>
+        </trans-unit>
+        <trans-unit id="Report 4102350434 - NamedType 3048835918" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price additional</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample MergeField Report 1 - NamedType CaptionPriceAdditional</note>
+        </trans-unit>
+        <trans-unit id="Report 4102350434 - NamedType 1864991647" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample MergeField Report 1 - NamedType CaptionQuantity</note>
+        </trans-unit>
+        <trans-unit id="Report 4102350434 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This report is only valid in connection with a Print-Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample MergeField Report 1 - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 2189260583 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PrintVis Sample MergeFields Report - Job</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample MergeField Report 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2189260583 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1{t}%2{t}%3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample MergeField Report 2 - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 2189260583 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This report is only valid in connection with a Purchase</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample MergeField Report 2 - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 3656149661 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PrintVis Sample Shop Floor Event</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample Shop Floor Event - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3656149661 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Entry Event. %1-%2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample Shop Floor Event - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 3413480585 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PrintVis Sample Status Rep. Autoplan</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample Status R. Autoplan - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3413480585 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample Status R. Autoplan - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2048065457 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PrintVis Sample Status Rep. Chk date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample Status R. Chk date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2048065457 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PVS Sample Status R. Chk date - Control Options - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

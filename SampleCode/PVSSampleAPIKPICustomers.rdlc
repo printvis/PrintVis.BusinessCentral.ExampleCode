@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <AutoRefresh>0</AutoRefresh>
+  <DataSources>
+    <DataSource Name="DataSource">
+      <ConnectionProperties>
+        <DataProvider>SQL</DataProvider>
+        <ConnectString />
+      </ConnectionProperties>
+      <rd:SecurityType>None</rd:SecurityType>
+    </DataSource>
+  </DataSources>
+  <ReportSections>
+    <ReportSection>
+      <Body>
+        <Height>2in</Height>
+        <Style />
+      </Body>
+      <Width>6.5in</Width>
+      <Page>
+        <Style />
+      </Page>
+    </ReportSection>
+  </ReportSections>
+  <Code>Public Function BlankZero(ByVal Value As Decimal)
+    if Value = 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankPos(ByVal Value As Decimal)
+    if Value &gt; 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankZeroAndPos(ByVal Value As Decimal)
+    if Value &gt;= 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankNeg(ByVal Value As Decimal)
+    if Value &lt; 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankNegAndZero(ByVal Value As Decimal)
+    if Value &lt;= 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+</Code>
+  <Language>=User!Language</Language>
+  <ConsumeContainerWhitespace>true</ConsumeContainerWhitespace>
+  <rd:ReportUnitType>Inch</rd:ReportUnitType>
+  <rd:ReportID>0eeb6585-38ae-40f1-885b-8d50088d51b4</rd:ReportID>
+  <DataSets>
+    <DataSet Name="DataSet_Result">
+      <Fields>
+        <Field Name="FORMAT_TODAY_0_4_">
+          <DataField>FORMAT_TODAY_0_4_</DataField>
+        </Field>
+        <Field Name="COMPANYNAME">
+          <DataField>COMPANYNAME</DataField>
+        </Field>
+        <Field Name="UserId">
+          <DataField>UserId</DataField>
+        </Field>
+        <Field Name="GetFilters">
+          <DataField>GetFilters</DataField>
+        </Field>
+        <Field Name="Customer__No__">
+          <DataField>Customer__No__</DataField>
+        </Field>
+        <Field Name="Customer_Name">
+          <DataField>Customer_Name</DataField>
+        </Field>
+        <Field Name="T_1_">
+          <DataField>T_1_</DataField>
+        </Field>
+        <Field Name="T_1_Format">
+          <DataField>T_1_Format</DataField>
+        </Field>
+        <Field Name="T_2_">
+          <DataField>T_2_</DataField>
+        </Field>
+        <Field Name="T_2_Format">
+          <DataField>T_2_Format</DataField>
+        </Field>
+        <Field Name="T_3_">
+          <DataField>T_3_</DataField>
+        </Field>
+        <Field Name="T_3_Format">
+          <DataField>T_3_Format</DataField>
+        </Field>
+        <Field Name="T_4_">
+          <DataField>T_4_</DataField>
+        </Field>
+        <Field Name="T_4_Format">
+          <DataField>T_4_Format</DataField>
+        </Field>
+        <Field Name="Text001">
+          <DataField>Text001</DataField>
+        </Field>
+        <Field Name="T_1__Control1160230020">
+          <DataField>T_1__Control1160230020</DataField>
+        </Field>
+        <Field Name="T_1__Control1160230020Format">
+          <DataField>T_1__Control1160230020Format</DataField>
+        </Field>
+        <Field Name="T_2__Control1160230021">
+          <DataField>T_2__Control1160230021</DataField>
+        </Field>
+        <Field Name="T_2__Control1160230021Format">
+          <DataField>T_2__Control1160230021Format</DataField>
+        </Field>
+        <Field Name="T_3__Control1160230022">
+          <DataField>T_3__Control1160230022</DataField>
+        </Field>
+        <Field Name="T_3__Control1160230022Format">
+          <DataField>T_3__Control1160230022Format</DataField>
+        </Field>
+        <Field Name="T_4__Control1160230023">
+          <DataField>T_4__Control1160230023</DataField>
+        </Field>
+        <Field Name="T_4__Control1160230023Format">
+          <DataField>T_4__Control1160230023Format</DataField>
+        </Field>
+        <Field Name="Customer_KPICaption">
+          <DataField>Customer_KPICaption</DataField>
+        </Field>
+        <Field Name="CurrReport_PAGENOCaption">
+          <DataField>CurrReport_PAGENOCaption</DataField>
+        </Field>
+        <Field Name="Customer__No__Caption">
+          <DataField>Customer__No__Caption</DataField>
+        </Field>
+        <Field Name="Customer_NameCaption">
+          <DataField>Customer_NameCaption</DataField>
+        </Field>
+        <Field Name="T_1_Caption">
+          <DataField>T_1_Caption</DataField>
+        </Field>
+        <Field Name="Direct_CostCaption">
+          <DataField>Direct_CostCaption</DataField>
+        </Field>
+        <Field Name="Contribution_MarginCaption">
+          <DataField>Contribution_MarginCaption</DataField>
+        </Field>
+        <Field Name="Contribution_Margin_RatioCaption">
+          <DataField>Contribution_Margin_RatioCaption</DataField>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>DataSource</DataSourceName>
+        <CommandText />
+      </Query>
+    </DataSet>
+  </DataSets>
+</Report>
